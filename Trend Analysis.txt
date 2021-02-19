@@ -1,0 +1,14 @@
+1. Even though Males make up 84% of the playerbase, Females spend, on average, 10% more than their male counterparts 
+and other genders spending the most.
+   Avg Total Purchase by Gender (per person)
+   Female     Male       Other / Non-Disclosed
+   $4.47      $4.07      $4.56
+ 
+2. While most of the playerbase is between the ages of 20 and 24. There are more players 25+ than there are less than 20. However,
+even though older players are more likely to have jobs and earn more income, there is little to no difference in the Avg Total Purchases 
+of those under 25 and those 25 and over. Meaning, each age spends relatively equally. 
+
+
+3. The most profitable Item is also the most popular item, Final Critic. Purchased 13x for an average price of $4.61. Even though it is
+not the highest average item price, it's popularity helped it become the most profitable. Oathbreaker, Last Hope of the Breaking Storm
+is also the 2nd most popular and as a result 2nd most profitable.
